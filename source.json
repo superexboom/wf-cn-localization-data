@@ -2,37 +2,37 @@
   "schema_version": 1,
   "source": "warframe-cn-content",
   "base_url": "https://content-zhpt.wf.qq.com",
-  "updated_at": "2026-08-12T19:21:04Z",
+  "updated_at": "2026-08-13T02:47:59Z",
   "languages_format": 44,
   "entries": 153795,
-  "output_sha256": "06813B787305CB28C3CA3939496CB8AF2AB9C11005380AC443697E6E8FEA8D9C",
+  "output_sha256": "9DD94D5259990F466CDAA2A5E77B1796CC355D965090C2D836245127AF83D7F0",
   "files": [
     {
       "path": "/H.Cache.bin",
       "token": "---------------------w",
-      "etag": "\"3d88f676dafa1718d1fd36cf81dbe318\"",
+      "etag": "\"5313e4b4e5636c68795c1ed90a1731b3\"",
       "http_bytes": 275,
-      "http_sha256": "EDF2E08F133382723B5350F76290A1F92086C98123F1710D686C32B7A45E521C",
+      "http_sha256": "646DBB8DBD913FEFEC513E3034DCE68E69421C88E221FEA659017535042C154C",
       "decoded_bytes": 299,
-      "decoded_sha256": "FAD9AEB3BCD12F4A8EE0014F4C3A9F9B8BD4B5906C4A6D9B8E03A3F4107CD4E9"
+      "decoded_sha256": "60EA49A07015851A5952704BB388EDBE5F67CE6EABBAE9B83C2C6CCC839642A6"
     },
     {
       "path": "/B.Cache.Windows_zh.bin",
-      "token": "wxHxkL+L0BLO6xUszyUNzg",
-      "etag": "\"1a772a9b9a72dc5d993505b13a54cc8d\"",
-      "http_bytes": 730510,
-      "http_sha256": "0C62D8DA405E42CAB5902877FA4F5256842624F6899F271DD247D6C4F813B9E4",
-      "decoded_bytes": 2991849,
-      "decoded_sha256": "0F73668270A037551527A6DAA6F7156EB12292F5CD03D29B41BD9286E77FD548"
+      "token": "pZyeSKSfbyUHwQogN8K9RQ",
+      "etag": "\"492f1c234d7e9fcb4f7af575d8b3e0f5\"",
+      "http_bytes": 730570,
+      "http_sha256": "CD94F841B1E74C0022CE8F7A7605415AFBF62AFA6EF64F0FB35D1C75615699DA",
+      "decoded_bytes": 2992034,
+      "decoded_sha256": "C96076BB0D3F0C29E9F22B1049E926F9598BACCB03C29652CA05A460FB42561A"
     },
     {
       "path": "/Languages.bin",
-      "token": "fu3oaQIzn6yWnfZGmkfLQg",
-      "etag": "\"a8bc594a81020185f60a2e53e9ab0c2a\"",
-      "http_bytes": 5502674,
-      "http_sha256": "F951A0993AD9700E2F9CB83E42E039F4636777E5EAFB6883512DDE113241CF53",
-      "decoded_bytes": 10846760,
-      "decoded_sha256": "6AFFAF455E30BDEE5DC0962DA65F75B484BDBA183F0C8D2CEF9849EB96827878"
+      "token": "Xr8M9L8DKF1y-yM9jeIvpQ",
+      "etag": "\"d16555131b9261d7dbeb362121b43a8e\"",
+      "http_bytes": 5500139,
+      "http_sha256": "C5FC779FE747B177606B32DDF8588881FF104C644F3A1AAB51CF88E2BEB99BF8",
+      "decoded_bytes": 10840415,
+      "decoded_sha256": "3F83B291D72377E1359CC446F3C50AA4A84E204AE438EC3985C516158826828E"
     }
   ]
 }
