@@ -2,37 +2,37 @@
   "schema_version": 1,
   "source": "warframe-cn-content",
   "base_url": "https://content-zhpt.wf.qq.com",
-  "updated_at": "2026-08-13T02:47:59Z",
+  "updated_at": "2026-08-20T19:00:02Z",
   "languages_format": 44,
-  "entries": 153795,
-  "output_sha256": "9DD94D5259990F466CDAA2A5E77B1796CC355D965090C2D836245127AF83D7F0",
+  "entries": 153796,
+  "output_sha256": "4AA67544B7DF7120038B5DD5C6F1A0AB728C778FF953B5BBCC48584B49211FBD",
   "files": [
     {
       "path": "/H.Cache.bin",
       "token": "---------------------w",
-      "etag": "\"5313e4b4e5636c68795c1ed90a1731b3\"",
+      "etag": "\"2417492daa937b85b6aee439319c68eb\"",
       "http_bytes": 275,
-      "http_sha256": "646DBB8DBD913FEFEC513E3034DCE68E69421C88E221FEA659017535042C154C",
+      "http_sha256": "9483A71DD1D69B40E53872A461F9D5C5B37B32282E416CFDE53605CC52E0A3DD",
       "decoded_bytes": 299,
-      "decoded_sha256": "60EA49A07015851A5952704BB388EDBE5F67CE6EABBAE9B83C2C6CCC839642A6"
+      "decoded_sha256": "C3EE720C0211B28E5A76DB9145254EDF3626D11E2D51E4AC0FCF542D9D4D4D73"
     },
     {
       "path": "/B.Cache.Windows_zh.bin",
-      "token": "pZyeSKSfbyUHwQogN8K9RQ",
-      "etag": "\"492f1c234d7e9fcb4f7af575d8b3e0f5\"",
+      "token": "pF+Y7JG4mBSlZ6E41MBvlA",
+      "etag": "\"e827c1345f874ea920ff703f7ed88931\"",
       "http_bytes": 730570,
-      "http_sha256": "CD94F841B1E74C0022CE8F7A7605415AFBF62AFA6EF64F0FB35D1C75615699DA",
+      "http_sha256": "FC874E7BD74C50EBC197B6C2F2C71DBB1483BCFE0B567B35F6121EE2B11EF526",
       "decoded_bytes": 2992034,
-      "decoded_sha256": "C96076BB0D3F0C29E9F22B1049E926F9598BACCB03C29652CA05A460FB42561A"
+      "decoded_sha256": "6197F787BB0AACE2B1F76427D044DCF70003D0BB2B28941EC0E4D51E09906623"
     },
     {
       "path": "/Languages.bin",
-      "token": "Xr8M9L8DKF1y-yM9jeIvpQ",
-      "etag": "\"d16555131b9261d7dbeb362121b43a8e\"",
-      "http_bytes": 5500139,
-      "http_sha256": "C5FC779FE747B177606B32DDF8588881FF104C644F3A1AAB51CF88E2BEB99BF8",
-      "decoded_bytes": 10840415,
-      "decoded_sha256": "3F83B291D72377E1359CC446F3C50AA4A84E204AE438EC3985C516158826828E"
+      "token": "tuztgKajHAxeUSXy6GVqaA",
+      "etag": "\"fb7b6e0622c7c01a6ea286fe6e0155d8\"",
+      "http_bytes": 5502071,
+      "http_sha256": "C46DB476F963DECE83BD0DF7BB7CB39E81A88DEB2C6EC414046BEFA592F96F49",
+      "decoded_bytes": 10839797,
+      "decoded_sha256": "1E2883492FDF949E9F2201F4276ACF10DAA96E0675960716828AC482452466F1"
     }
   ]
 }
