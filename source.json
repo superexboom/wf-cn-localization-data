@@ -2,37 +2,37 @@
   "schema_version": 1,
   "source": "warframe-cn-content",
   "base_url": "https://content-zhpt.wf.qq.com",
-  "updated_at": "2026-10-22T17:11:11Z",
+  "updated_at": "2026-10-22T21:36:19Z",
   "languages_format": 44,
   "entries": 155249,
-  "output_sha256": "05CF18E36FDE27CF1DED2F2B6B13967E1AA462194A3D5FF5902B67277AC961D0",
+  "output_sha256": "AB862D90973D5178372907B1A6E5FF6CDDEE457C2DB9AE759F4EDAE68B66A3C0",
   "files": [
     {
       "path": "/H.Cache.bin",
       "token": "---------------------w",
-      "etag": "\"c25251f54559f59bfbe4316b9e5333f4\"",
+      "etag": "\"7e168c688cd0bce2ec2c82d1d5547bbc\"",
       "http_bytes": 275,
-      "http_sha256": "5A13E9144D1C22DE41E411E748B80D3E4C87E6D11ED457823B886CC989914D06",
+      "http_sha256": "25B556E9D5FE8839DF80EF538AE387A9FA73D8CED6EC831DE88A215CEDADF027",
       "decoded_bytes": 299,
-      "decoded_sha256": "C8C9D64FA990995CAAB1EB978C54BAE949FF02BE409047EFAA776D8B34347F4A"
+      "decoded_sha256": "E5604A47C6B8ECA69E9EEDEBCDB0ECC93A150F7FDF2A80DF2EFD9FBF7CFA9240"
     },
     {
       "path": "/B.Cache.Windows_zh.bin",
-      "token": "7VRx0063hl7OKSYxSvKMPA",
-      "etag": "\"8a47561a848838beadb142440dc5ead0\"",
+      "token": "xltULH-jV6wK6+JdWFZz8A",
+      "etag": "\"21133cdfd3cc05909f8078feb26d130c\"",
       "http_bytes": 733501,
-      "http_sha256": "9682FE3BB117BA3208791BF673E0D1DAF55AF25A906931066351D046EBA4BF6A",
+      "http_sha256": "0F06E0D54EFE4F231D7403C1B6E6C6EEFF28366FAE2B31A33E319A32D20BFBB8",
       "decoded_bytes": 3004358,
-      "decoded_sha256": "F6730FA759FD5ED8BC8923D695B076B2EB6BFFDB4960EAD13A4E8BE5434921BB"
+      "decoded_sha256": "2C63D25BD35CB23ECD15927310C6123CE4B4AB3360FFE96D762B3353722FB185"
     },
     {
       "path": "/Languages.bin",
-      "token": "Q3rnyyUZYv2iucS9mT8yXQ",
-      "etag": "\"2b1ed01d0010c1cead8bb03f86d7fb67\"",
-      "http_bytes": 5532627,
-      "http_sha256": "C924C5DD6ACAE427E9DCDC86A4714F015F20BE3A514F5236C646F6F0585572E9",
-      "decoded_bytes": 10910207,
-      "decoded_sha256": "4417CEC2242E904C14051195A95BBD9530B6055B292B6278A40A6CDD55A5C56A"
+      "token": "Pu-36AYtFLLlQ4xCH43Mtg",
+      "etag": "\"93aaa1e7b44e95e84103219d77b31590\"",
+      "http_bytes": 5567095,
+      "http_sha256": "30DA02321E39350536C355B52C08570365F6C0CC0F8C9B9AD494911B19A89FA7",
+      "decoded_bytes": 10937761,
+      "decoded_sha256": "54A3B4A17BE9AFC7D1979DE81BF44D7C1876A71A54B6E630BC9A14A0B28575A0"
     }
   ]
 }
