@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "warframe-cn-content",
   "base_url": "https://content-zhpt.wf.qq.com",
-  "updated_at": "2026-10-29T22:45:38Z",
+  "updated_at": "2026-11-05T19:57:23Z",
   "languages_format": 44,
   "entries": 155249,
   "output_sha256": "5A3B2372E32A3E59AEB8342AC3A28CDB0A9282E0BAB7EEEA3E2930C2F147FA67",
@@ -10,11 +10,11 @@
     {
       "path": "/H.Cache.bin",
       "token": "---------------------w",
-      "etag": "\"dae35a98876abce6715fce418be6c158\"",
+      "etag": "\"9aa18db0ab332e1f70a160d26194d0ac\"",
       "http_bytes": 275,
-      "http_sha256": "7C18D098416E6E505D1DFEE2DDBED77A43EA74CC342911BB7ACEE7148B5BE5D7",
+      "http_sha256": "AACA0827B777F501036AE9D10AEFB832AA1AA3808DC6711B379B79E6E20803C2",
       "decoded_bytes": 299,
-      "decoded_sha256": "65AB9E0B2A61AF04C681C4D3747F09D9E0A9459690D2769CA369F570F1C1756A"
+      "decoded_sha256": "D69E194D1D1682EEE88682EED85EE5565D40C7A8F7A90CC51569D2D7BB08274D"
     },
     {
       "path": "/B.Cache.Windows_zh.bin",
